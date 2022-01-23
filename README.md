@@ -123,7 +123,7 @@ I am interested in learning Mobile developing.
 <a href="abdullohabduxalilov1982@gmail.com" >
   <img align="center" alt="Abdulloh Abduxalilov| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://t.me/From_Python_with_AAA">
+<a href="https://www.facebook.com/abdulloh.abduxalilov.3">
     <img align="center" alt="Abdulloh Abduxalilov| Telegram" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
@@ -163,7 +163,7 @@ I am interested in learning Mobile developing.
 
 [Abdulloh_Abduxalilov](https://github.com/AbdullohFlutterDeveloper)
 
-Last Edited on: 09/09/2021
+Last Edited on: 23/01/2022
 
 
 ------
