@@ -114,7 +114,7 @@ I am interested in learning Mobile developing.
 <a href="https://www.linkedin.com/in/abdulloh-abduxalilov-1a37bb21a/" target="_blank">
   <img align="center" alt="Abdulloh Foziljonov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="abdullohabduxalilov1982@gmail.com" >
+<a href="https://abdullohabduxalilov1982@gmail.com/" >
   <img align="center" alt="Abdulloh Abduxalilov| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/abdulloh.abduxalilov.3">
