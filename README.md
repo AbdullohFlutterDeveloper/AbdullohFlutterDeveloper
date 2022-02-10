@@ -14,7 +14,7 @@ I am interested in learning Mobile developing.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Flutter developer in Tashkent.
+- 🔭 I’m currently open to work in Tashkent onsite and remote.
 - 🌱 I’m currently learning clean architecture.
 - 👯 I’m looking to collaborate with companies to impore my experience.
 - 🤔 I’m looking for help with Open source Contribution.
