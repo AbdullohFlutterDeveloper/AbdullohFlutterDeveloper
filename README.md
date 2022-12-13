@@ -21,12 +21,14 @@ I am interested in learning Mobile developing.
 - 💬 Ask me about Flutter Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
-
+   
+   
+   
 <br/>
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=AbdullohFlutterDeveloper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e"><img src="https://github-readme-stats.vercel.app/api?username=AbdullohFlutterDeveloper&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Stats"></a><br>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullohFlutterDeveloper&layout=compact&text_color=efefef&bg_color=24292e&title_color=fff"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullohFlutterDeveloper&layout=compact&text_color=efefef&bg_color=24292e&title_color=fff" alt="top langs"></a><br>
-    <a href="https://visitor-badge.glitch.me/badge?page_id=AbdullohFlutterDeveloper"><img src="https://visitor-badge.glitch.me/badge?page_id=AbdullohFlutterDeveloper" alt="visitors"></a><br>
+   
 
 </p>
 
