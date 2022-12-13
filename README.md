@@ -24,6 +24,12 @@ I am interested in learning Mobile developing.
    
    
    
+   
+   
+### 💻 Some stats 
+
+
+
 <br/>
 
 
