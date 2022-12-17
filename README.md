@@ -155,24 +155,7 @@ I am interested in learning Mobile developing.
 <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/AbdullohFlutterDeveloper/count.svg" />  
-</p>
-   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
 
 
@@ -181,7 +164,7 @@ I am interested in learning Mobile developing.
 
 [Abdulloh_Abduxalilov](https://github.com/AbdullohFlutterDeveloper)
 
-Last Edited on: 23/01/2022
+Last Edited on: 17/12/2022
 
 
 ------
